@@ -30,7 +30,7 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files - CRITICAL: NEVER COMMIT THESE (contain sensitive data)
+# env files 
 .env*
 !.env.example
 
@@ -41,7 +41,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Additional security
+
 *.log
 *.pid
 *.seed
