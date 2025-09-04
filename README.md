@@ -5,7 +5,7 @@ A comprehensive full-stack web application for team collaboration and task manag
 
 ## 🚀 Live Demo
 
-[View Live Application](your-deployment-url) | [API Documentation](your-api-docs-url)
+https://team-management-app-alpha.vercel.app/
 
 ## 📋 Table of Contents
 
