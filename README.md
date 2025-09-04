@@ -238,6 +238,7 @@ node -e "console.log(require('crypto').randomBytes(32).toString('base64'))"
 |---------|--------|-------|
 | ✅ Multi-Device Support | Supported | Responsive design |
 | ✅ Real-time Updates | Supported | Automatic progress sync |
+| ✅ Cookies | Automatic Page Access Sync |
 | ✅ File Attachments | Supported | Links and file uploads |
 | ✅ CSV Export | Supported | Task and user statistics |
 | ✅ Role-based Access | Supported | Admin and Employee roles |
