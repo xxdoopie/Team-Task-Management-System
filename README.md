@@ -302,7 +302,7 @@ Contributions are welcome! Please follow these steps:
 
 **xxdoopie**
 - GitHub: [@xxdoopie](https://github.com/xxdoopie)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: www.linkedin.com/in/wesley-odhiambo-74b571382
 - Email: tlegendfox@gmail.com / mpkggamer@gmail.com
 
 ⭐ **Star this repository if you found it helpful!**
