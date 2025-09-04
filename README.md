@@ -1,4 +1,4 @@
-# Team Task Management System
+# Company Task Management System
 
 A comprehensive full-stack web application for team collaboration and task management, built with modern technologies and featuring role-based access control.
 <img width="1885" height="946" alt="image" src="https://github.com/user-attachments/assets/8d1feae0-f051-480a-b4f8-0a773d0c31ef" />
