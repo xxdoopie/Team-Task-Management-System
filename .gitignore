@@ -30,8 +30,9 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files - CRITICAL: NEVER COMMIT THESE (contain sensitive data)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +40,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Additional security
+*.log
+*.pid
+*.seed
+coverage/
+.idea/
+.vscode/
+*.swp
+*.swo
